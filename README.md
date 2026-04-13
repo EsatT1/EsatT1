@@ -1,16 +1,16 @@
-## Hi there 👋
+# Merhaba, Ben Esat! 
 
-<!--
-**EsatT1/EsatT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Süleyman Demirel Üniversitesi (SDÜ)** Bilgisayar Mühendisliği öğrencisiyim. Gelişim odaklı, analitik düşünen ve vizyonunu sadece kod yazmakla sınırlamayan bir mühendis adayıyım. Özellikle insanların dijital dünyada nasıl bağ kurduklarını, bu ağların arka planındaki yapıları ve veri akışlarını incelemeyi seviyorum.
 
-Here are some ideas to get you started:
+###  Hakkımda
+* **İlgi Alanlarım:** Sosyal Ağ Mühendisliği, Veri Yapıları (Data Structures), Donanım Mimarileri (SoC & ASIC) ve Dijital Mantık Tasarımı.
+* **Sosyal Yönüm:** **BEST Isparta** (Board of European Students of Technology) yerel grubunda aktif rol alıyorum. Kurumsal ilişkiler, sponsorluk görüşmeleri ve uluslararası etkinlik organizasyonları (Career Day vb.) ile mühendisliğin sosyal ve iletişim boyutunu da sahada tecrübe ediyorum.
+*  **Şu An Ne Öğreniyorum:** Java ile Nesne Yönelimli Programlama (OOP) temellerimi güçlendiriyor ve algoritmik problem çözme yeteneklerimi geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Teknolojiler ve Araçlar
+* **Diller:** Java, C, Verilog
+* **Araçlar & IDE'ler:** VS Code, Git/GitHub, Apache NetBeans
+
+###  Bana Ulaşın
+* **LinkedIn:** [Esat Özkan](https://www.linkedin.com/in/esat-%C3%B6zkan/)
+* **Email:** ozkanesat00@gmail.com
